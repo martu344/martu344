@@ -14,9 +14,9 @@
 <br>
 
 </div>
+<div>
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
-                                                                                     
-<br>
+                                                                                   
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 ### 🛠 &nbsp;Tech Stack
 
@@ -37,7 +37,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-
+</div>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
