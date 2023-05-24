@@ -14,6 +14,17 @@
                                                                                    
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+<hr>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/martu344">
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=martu344&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=martu344&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <br>
 
 ### 🛠 &nbsp;Tech Stack
@@ -34,14 +45,3 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-<br>
-<hr>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/martu344">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=martu344&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=martu344&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
