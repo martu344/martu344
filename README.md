@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Martin Bottaro👋</h1>
 </div>
 
-<img src="fotito.png">
+<img src="foto.png">
 
 
 
