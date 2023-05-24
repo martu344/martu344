@@ -11,7 +11,6 @@
 - 📲 Full Stack developer
 - 📗 Diplomatura de Full Stack Developer (UTN).
 - 🧑 Pofesional, Dedicado y Detallista. Siempre en la busqueda de superarme a mi mismo, me desempeño de la mejor forma posible, proactivo y aceptando los retos que aperecen dia a dia, resolviendolos de la mejor manera, optimizando y cumpliendo con las expectativas.
-<br>
 
 </div>
 
@@ -19,7 +18,7 @@
                                                                                    
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 ### 🛠 &nbsp;Tech Stack
-
+<br>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
