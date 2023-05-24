@@ -2,6 +2,7 @@
 <h1 align="center">Hola, soy Martin Bottaro👋</h1>
 </div>
 
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 <img src="foto.png">
 
 ## Sobre mi
@@ -10,11 +11,11 @@
 - 📗 Diplomatura de Full Stack Developer (UTN).
 - 🧑 Pofesional, Dedicado y Detallista. Siempre en la busqueda de superarme a mi mismo, me desempeño de la mejor forma posible, proactivo y aceptando los retos que aperecen dia a dia, resolviendolos de la mejor manera, optimizando y cumpliendo con las expectativas.
 
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
                                                                                    
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 <br>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
